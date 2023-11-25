@@ -14,7 +14,7 @@ Main language: <b>С++</b> 🤓
 <img src="https://static.wikia.nocookie.net/mspaintadventures/images/3/30/Dave_LOHACSE.gif" alt="literally me">
 
 <h1>I like HomeStuck</h1>
-<p><i> _But I have absolutely nothing to say about Andrew Hussey_ </i></p>
+<p><i> _But I have absolutely nothing to say about Andrew Hussie_ </i></p>
 https://www.mspaintadventures.ru/
 
 <h1>DON'T READ HOMESTUCK EPILOGUES!!!</h1>

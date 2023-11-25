@@ -1,16 +1,20 @@
-### Hi there 👋
+# About me 🕶
+<h3><i> _Hi there, i'm programmer_ 👾 </i></h3>
+<h3> Student of SF MAI 🤠 </h3>
+<h3> I'm 21 years old 👴🏻</h3>
+<hr />
+Main language: <b>С++</b> 🤓
+<p>My projects at the moment:</p>
+<li>Binary Tree: https://github.com/Joseph730/BinaryTree_Search.git</li>
+<li>Graphs: https://github.com/Joseph730/Graph_hw.git</li>
+<li>Huffman Node: https://github.com/Joseph730/HuffmanNode.git</li>
+<li>Shanon Fano: https://github.com/Joseph730/ShanonFano</li>
+<p></p>
 
-<!--
-**Joseph730/Joseph730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://static.wikia.nocookie.net/mspaintadventures/images/3/30/Dave_LOHACSE.gif" alt="literally me">
 
-Here are some ideas to get you started:
+<h1>I like HomeStuck</h1>
+<p><i> _But I have absolutely nothing to say about Andrew Hussey_ </i></p>
+https://www.mspaintadventures.ru/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>DON'T READ HOMESTUCK EPILOGUES!!!</h1>

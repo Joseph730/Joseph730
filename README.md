@@ -1,7 +1,7 @@
 # About me 🕶
 <h3><i> _Hi there, i'm programmer_ 👾 </i></h3>
 <h3> Student of SF MAI 🤠 </h3>
-<h3> I'm 21 years old 👴🏻</h3>
+<h3> I'm 22 years old 👴🏻</h3>
 <hr />
 Main language: <b>С++</b> 🤓
 <p>My projects at the moment:</p>
